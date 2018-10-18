@@ -29,13 +29,13 @@
 
 
 # Change these paths
-DIRPATH="BeFree"
+DIRPATH="befree"
 # DATABASE_NAME="medline"
 # COLLECTION_NAME="NER"
 # PMID_LIST_PATH=""
 
 # Output Folder
-OUTPUT_PATH="$DIRPATH/out/RE/"
+OUTPUT_PATH="befree_out"
 
 # File names
 GENE_FILENAME="genes"
